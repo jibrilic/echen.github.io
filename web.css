@@ -35,7 +35,7 @@ nav {
 nav .logo {
   font-size: 1.3rem;
   font-weight: 700;
-  color: #58a6ff;
+  color: #8558ff;
   text-decoration: none;
 }
 
@@ -53,7 +53,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #58a6ff;
+  color: #8558ff;
 }
 
 /* Hero Section */
@@ -89,7 +89,7 @@ button, .btn {
 }
 
 .btn-primary {
-  background: #58a6ff;
+  background: #8558ff;
   border: none;
   color: white;
   font-weight: 600;
@@ -101,7 +101,7 @@ button, .btn {
 }
 
 .btn-outline {
-  border: 2px solid #58a6ff;
+  border: 2px solid #8558ff;
   background: transparent;
   color: #58a6ff;
   font-weight: 600;
